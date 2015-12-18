@@ -845,9 +845,9 @@ form>.form-group {
 }
 
 .fade-in .carousel-inner > .item {
-  transition: all .4s ease-in-out;
-  -webkit-transition: all .4s ease-in-out;
-  -moz-transition: all .4s ease-in-out;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
   height: 100%;
   width: 100%;
 }
